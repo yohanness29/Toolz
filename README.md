@@ -25,3 +25,4 @@
 
 # Credits
 Special thanks to Koeyk who is the best Tetris Teacher. Without him, i could not have the idea to create this "practice game".
+thanks to everyone who will downloading the game :)
