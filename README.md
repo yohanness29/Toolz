@@ -10,7 +10,7 @@
 -------------------------------------------------
 ## Download
 
-**Windows only:** 
+**Windows only:** Soon
 
 ## how to run :
 
