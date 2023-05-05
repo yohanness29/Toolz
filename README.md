@@ -1,3 +1,3 @@
-![alt text](https://imgur.com/xbuLPKd)
+![alt text][(https://imgur.com/xbuLPKd)]
 
 Learn the Tetriminos with Toolz !!
