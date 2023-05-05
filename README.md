@@ -24,4 +24,4 @@
 - 1 seconde mode: You just have 1 seconde to memorize all the next pieces and tipe it in order.
 
 # Credits
-Special thank-you to Koeyk who is the best Tetris Teacher. without him, i could not have the idea to create this "practice game".
+Special thanks to Koeyk who is the best Tetris Teacher. Without him, i could not have the idea to create this "practice game".
