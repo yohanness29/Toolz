@@ -21,7 +21,7 @@
 ## Futur Update:
 
 - Chrono mode: A mode for recognize the Tetronminos. Tape the letter apropriate on a limited time.
-- 1 seconde mode: You just have 1 seconde for memorize all the next pieces and tipe it in order.
+- 1 seconde mode: You just have 1 seconde to memorize all the next pieces and tipe it in order.
 
 # Credits
 Special thank-you to Koeyk who is the best Tetris Teacher. without him, i could not have the idea to create this "practice game".
