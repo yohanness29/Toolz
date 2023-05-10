@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/118851598/236465422-30da1eb0-d141-4be3-9fcb-37c39de2aa20.png"  width="50%" height="25%">
+<img src="https://i.imgur.com/5NQJeJR.png"  width="50%" height="25%">
 
 ## Learn The Tetrominos with toolz
 
